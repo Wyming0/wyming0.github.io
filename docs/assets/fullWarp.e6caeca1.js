@@ -1,0 +1,1 @@
+import{h as n,y as l,f as r,F as s}from"./vendor.63cfb631.js";const u={enterClass:String};var d=n({name:"FullWarp",props:u,setup(a,{slots:e}){let t=l(()=>a.enterClass);return()=>r(s,null,[r("div",{class:`${t?"enter-y-r":""} my-4 w-full h-full   space-y-2  dark:bg-gray-800`},[e.default?e.default():e.default])])}});export{d as default};

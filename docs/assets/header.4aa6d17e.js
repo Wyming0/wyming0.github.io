@@ -1,0 +1,1 @@
+import"./index.c0d1211b.js";import{o as e,j as s}from"./vendor.63cfb631.js";const t={class:"py-8 px-3 w-full h-full enter-y-l mx-auto bg-white space-y-2 sm:py-4 sm:w-full sm:flex sm:items-center sm:space-y-0 sm:space-x-6 dark:bg-gray-800"},m={setup(c){return(r,a)=>(e(),s("div",t))}};export{m as default};
